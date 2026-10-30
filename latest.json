@@ -1,8 +1,8 @@
 {
-  "notes": "Comptabilité : mécanique et clim séparées, côte à côte\nFactures : tableau de TVA en 2 lignes (main-d'œuvre, pièces), réglable\nAperçu en direct de la facture dans les Réglages\nFacture électronique Factur-X pour les clients pros, SIREN client\nHaut du menu « MÉCANIQUE · CLIM », nouvelles options d'affichage\nCarte grise en photo, page d'aide, journal d'erreurs",
-  "sha256": "a3fe25212d4709b6cfd31e7ecea932ac0534b73beef06df32cdf17caab1163f6",
-  "signature": "56EScAV94Z1oOhC89+B3HEFkTZYdXqsqIi+7uj+/LiRE20EmuZDjDOs/gxujnQ5oYChBHazQIj3lCWZDA8sgDw==",
-  "taille": 13908575,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.7.9/LocazClim.exe",
-  "version": "1.7.9"
+  "notes": "Barre de progression avec le temps écoulé et restant\nRéglages > Apparence : plus de choix\nRecherches plus simples",
+  "sha256": "6aa4b94183a153c1fcde9f2f4d4b128f000c0a8bee9a2b2349cfa4aa478a5e7d",
+  "signature": "kj6FbB88Pzlnvnen5seyQPfv9aQ4GQNY1eAdIzzaVjxQ6shOiX9i7xmihBIu6Ri+yyzc3XFz8RNPmrHOI/N2Cw==",
+  "taille": 13949535,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.0/LocazClim.exe",
+  "version": "1.8.0"
 }
