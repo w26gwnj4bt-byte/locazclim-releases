@@ -1,8 +1,8 @@
 {
-  "notes": "Copie OneDrive : le bon dossier OneDrive, même connecté après le lancement",
-  "sha256": "9617f577d76cd74b2069981d685ecff53679cde65744b1e3ca57485f0fe9442b",
-  "signature": "nc+u1PlTanelXa1fued/9dHK4JxX6ttQ65ZBv5k7ir/qv1rt2IZH1lxoJuc7McJEA2x4OC6ByGyLGU7hbBs0BQ==",
-  "taille": 14006367,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.6/LocazClim.exe",
-  "version": "1.8.6"
+  "notes": "Copie OneDrive : seul le compte réellement connecté est utilisé",
+  "sha256": "65fdef4548d563f60c8d3d3a8ed9c7a6b256fb55ff34c30b7d156652f6eb6030",
+  "signature": "veV26ESk+AOVqd+Wu8dvxoGL97HUg4n4DInfPsn1DwJvYhroQjrlenFPsjQnhmFbxJnZFozPmgjhTKt136qbAQ==",
+  "taille": 14007391,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.7/LocazClim.exe",
+  "version": "1.8.7"
 }
