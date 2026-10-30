@@ -1,8 +1,8 @@
 {
   "notes": "Barre de progression avec le temps écoulé et restant\nRéglages > Apparence : plus de choix\nRecherches plus simples",
-  "sha256": "6aa4b94183a153c1fcde9f2f4d4b128f000c0a8bee9a2b2349cfa4aa478a5e7d",
-  "signature": "kj6FbB88Pzlnvnen5seyQPfv9aQ4GQNY1eAdIzzaVjxQ6shOiX9i7xmihBIu6Ri+yyzc3XFz8RNPmrHOI/N2Cw==",
-  "taille": 13949535,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.0/LocazClim.exe",
-  "version": "1.8.0"
+  "sha256": "6f6ba223036fa82c10f7f419ad37a508523b78e3f006135a5dc05108c80a0a10",
+  "signature": "UF4Zet+dvZbjg3VxmRDDGsLgYtdIjEJZL3+hp56x6kOCrNMT8jzwtLsR0cC1zHXhutYbJ+KxpToSmCVQO0BVAA==",
+  "taille": 13946463,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.1/LocazClim.exe",
+  "version": "1.8.1"
 }
