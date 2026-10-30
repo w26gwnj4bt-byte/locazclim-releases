@@ -1,8 +1,8 @@
 {
-  "notes": "Barre de progression avec le temps écoulé et restant\nRéglages > Apparence : plus de choix\nRecherches plus simples",
-  "sha256": "6f6ba223036fa82c10f7f419ad37a508523b78e3f006135a5dc05108c80a0a10",
-  "signature": "UF4Zet+dvZbjg3VxmRDDGsLgYtdIjEJZL3+hp56x6kOCrNMT8jzwtLsR0cC1zHXhutYbJ+KxpToSmCVQO0BVAA==",
-  "taille": 13946463,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.1/LocazClim.exe",
-  "version": "1.8.1"
+  "notes": "Réglage « TVA sur la facture » avec aperçu en direct\nModèle et moteur liés\nFiches rangées dans l'ordre du travail",
+  "sha256": "56eb19807a6df3dc4f2f3b0e36a082fe9d62832d451315f6c38d7f1abd108a4a",
+  "signature": "knqDZ0NzXf3ncjrPLwsaBL+53WzXlCqg3CcgX18316CKUA6Ad2gisLPXEwnZ1zJyH33VkqOEgN8lFQHiZBU2Bw==",
+  "taille": 13984863,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.2/LocazClim.exe",
+  "version": "1.8.2"
 }
