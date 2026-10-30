@@ -1,8 +1,8 @@
 {
-  "notes": "Les données suivent le dossier Documents sauvegardé par OneDrive",
-  "sha256": "84c868f075164d4c50dbbd76548f516f5375bb0817d698ee6ea8519882bbbade",
-  "signature": "0Fo+dixlOZxsy0TbKpLjH9cMASBuY8kDBp0id+mdo1/Co18p3v4Z3+6B35ymQd7SQ3qcHHb588J43FMUYxniAg==",
-  "taille": 13995615,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.4/LocazClim.exe",
-  "version": "1.8.4"
+  "notes": "Copie automatique des données dans OneDrive, toutes les heures",
+  "sha256": "e3a1e793644fe22ce72a002390855e671a368e328540e80b7f8e817366fc3914",
+  "signature": "qWrRIkyIL9jydpzy9bQk07C9r086i2cmOl+yeFuwYMGUnJrWEdEvLSY4GYXZ1N0ekQEVbvKKjPgpUjRhoPpoCw==",
+  "taille": 14004319,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.5/LocazClim.exe",
+  "version": "1.8.5"
 }
