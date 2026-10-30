@@ -1,8 +1,8 @@
 {
-  "notes": "Copie automatique des données dans OneDrive, toutes les heures",
-  "sha256": "e3a1e793644fe22ce72a002390855e671a368e328540e80b7f8e817366fc3914",
-  "signature": "qWrRIkyIL9jydpzy9bQk07C9r086i2cmOl+yeFuwYMGUnJrWEdEvLSY4GYXZ1N0ekQEVbvKKjPgpUjRhoPpoCw==",
-  "taille": 14004319,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.5/LocazClim.exe",
-  "version": "1.8.5"
+  "notes": "Copie OneDrive : le bon dossier OneDrive, même connecté après le lancement",
+  "sha256": "9617f577d76cd74b2069981d685ecff53679cde65744b1e3ca57485f0fe9442b",
+  "signature": "nc+u1PlTanelXa1fued/9dHK4JxX6ttQ65ZBv5k7ir/qv1rt2IZH1lxoJuc7McJEA2x4OC6ByGyLGU7hbBs0BQ==",
+  "taille": 14006367,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.6/LocazClim.exe",
+  "version": "1.8.6"
 }
