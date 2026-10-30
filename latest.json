@@ -1,8 +1,8 @@
 {
-  "notes": "Réglage « TVA sur la facture » avec aperçu en direct\nModèle et moteur liés\nFiches rangées dans l'ordre du travail",
-  "sha256": "56eb19807a6df3dc4f2f3b0e36a082fe9d62832d451315f6c38d7f1abd108a4a",
-  "signature": "knqDZ0NzXf3ncjrPLwsaBL+53WzXlCqg3CcgX18316CKUA6Ad2gisLPXEwnZ1zJyH33VkqOEgN8lFQHiZBU2Bw==",
-  "taille": 13984863,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.2/LocazClim.exe",
-  "version": "1.8.2"
+  "notes": "Ordre des lignes du devis : flèches ↑ ↓ et glisser-déposer",
+  "sha256": "2145ac08a2441bca65a32bec137aaa6242f168b8f86a868d602d23ca356bd43b",
+  "signature": "OLmFcHS1Rtujp6vMDRbBqODnycjq3qhJEvZFTW7nRFGS13nXIDazyKPGnxmPyNtj3TKzZ4W9bGeIuEO/77zkBQ==",
+  "taille": 13987423,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.3/LocazClim.exe",
+  "version": "1.8.3"
 }
