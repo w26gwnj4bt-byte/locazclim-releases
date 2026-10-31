@@ -1,8 +1,8 @@
 {
-  "notes": "Téléphone sans le PC : le téléphone marche même PC éteint, par le compte Google du garage",
-  "sha256": "f4bfe1b116ed2066981366a45bfce08378b63d9e70ed6da0fdbba1ea53151ebe",
-  "signature": "WiY2rw1lAjWFSzQBmstQ4sAZby5/DZY3IgUAMXCwGJ/sKztyV0z9FqlfIQZLz7xBlssErc/gYxDXXYUoJTxtDA==",
-  "taille": 14136927,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.8/LocazClim.exe",
-  "version": "1.8.8"
+  "notes": "Préconisations sur la facture : entretiens à prévoir imprimés sur la facture et le devis",
+  "sha256": "3c834f5b23a166131bc8897b4a15094e80e8fc5afc42d3e106dc3863f330a6ab",
+  "signature": "iztyrVFOJ9+hiK/pa4uVm6fnRPsbh8GJKcnmnks9IXC7Y14GuOYMx0IrRLOoKuuAay2VUvHMGOTOmMHSc88dAw==",
+  "taille": 14143583,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.9/LocazClim.exe",
+  "version": "1.8.9"
 }
