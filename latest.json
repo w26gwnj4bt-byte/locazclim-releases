@@ -1,8 +1,8 @@
 {
-  "notes": "Copie OneDrive : seul le compte réellement connecté est utilisé",
-  "sha256": "65fdef4548d563f60c8d3d3a8ed9c7a6b256fb55ff34c30b7d156652f6eb6030",
-  "signature": "veV26ESk+AOVqd+Wu8dvxoGL97HUg4n4DInfPsn1DwJvYhroQjrlenFPsjQnhmFbxJnZFozPmgjhTKt136qbAQ==",
-  "taille": 14007391,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.7/LocazClim.exe",
-  "version": "1.8.7"
+  "notes": "Téléphone sans le PC : le téléphone marche même PC éteint, par le compte Google du garage",
+  "sha256": "f4bfe1b116ed2066981366a45bfce08378b63d9e70ed6da0fdbba1ea53151ebe",
+  "signature": "WiY2rw1lAjWFSzQBmstQ4sAZby5/DZY3IgUAMXCwGJ/sKztyV0z9FqlfIQZLz7xBlssErc/gYxDXXYUoJTxtDA==",
+  "taille": 14136927,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.8/LocazClim.exe",
+  "version": "1.8.8"
 }
