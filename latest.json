@@ -1,8 +1,8 @@
 {
-  "notes": "Paiement en plusieurs fois : les échéances suivantes se recalculent quand le client paie plus ou moins, ou quand le prix change ; le prix tapé après la désignation n'est plus perdu",
-  "sha256": "b3a18c1e535603f480c8fde27ff902f999abe2bedcd979383e6b0e8321c92104",
-  "signature": "fYDY7gkrtp9udsFfYWxMW7fk+rt2vVc0q73cP8Dzv3OPsEvNkV+k3AdNYdbjEdqCF/BWH2KZiQddKekp7YA1Cg==",
-  "taille": 14216799,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.5/LocazClim.exe",
-  "version": "1.9.5"
+  "notes": "Rappels clients par WhatsApp, contrôle du véhicule avec photos, devis accepté et signé sur le téléphone du client",
+  "sha256": "037a0cb59bee6a6f551a2cab6c5c930177296c0fb55f0b003da0f77c9350ad24",
+  "signature": "/dRRq+PEnUSH11VDdsovjQzJsLso3emAOQ9/ZQ8jlR+6NL/LWK0VSxJhbVETrOPWTSQNbh/5o0VLegnAnZDXBg==",
+  "taille": 14376031,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.6/LocazClim.exe",
+  "version": "1.9.6"
 }
