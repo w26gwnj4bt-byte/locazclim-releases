@@ -1,8 +1,8 @@
 {
-  "notes": "Paiement en plusieurs fois : 2, 3 ou 4 fois sans frais ou à la carte, suivi des échéances et tableau sur la facture",
-  "sha256": "edf60286309983ff52ab687fd15d70f753655ad1a0fddbcce36faaec7e57076e",
-  "signature": "KKMZGQ6WU+tvfcPtK3kM0EaONiTEIiJ8u+ERUuyLa1cAVMSSJFkZfn7p9lx6GOiS/71tT1tqCsqSOtPTaft0DA==",
-  "taille": 14165599,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.0/LocazClim.exe",
-  "version": "1.9.0"
+  "notes": "Menu rangé par groupes comme MouniKey, barre du bas avec « Plus » sur téléphone, raccourcis dans Réglages, et le téléphone suit tout seul la version du PC",
+  "sha256": "956b737bdb8ff5f5786c3c09cd62070305aa8fdcce2213d3b044b4c742e6ce67",
+  "signature": "C2wdOi9oOsi++eN51aYlA/Gkgzfn90zNOLuch6i/wJT4+RXJgUCcPQYeqts5jLK6MVDZSZI4osLyoKKG6U+0CA==",
+  "taille": 14190175,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.1/LocazClim.exe",
+  "version": "1.9.1"
 }
