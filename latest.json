@@ -1,8 +1,8 @@
 {
-  "notes": "Plaque jamais venue au garage : un cadre sous la plaque et un bouton « Ajouter ce véhicule » qui emmène à la fiche du client",
-  "sha256": "8229387561544bbb0d0fedbbe78f8b793eab996f5a83367a225d0d66c6049c40",
-  "signature": "04yW/omp7+zla2ZmauYGolaGTwcanf0ZEBCcPDJ0q/nvhlq9gAbavzrJSwsHkVb3QMEni03u0VgwqAY3lDWhCw==",
-  "taille": 14212191,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.4/LocazClim.exe",
-  "version": "1.9.4"
+  "notes": "Paiement en plusieurs fois : les échéances suivantes se recalculent quand le client paie plus ou moins, ou quand le prix change ; le prix tapé après la désignation n'est plus perdu",
+  "sha256": "b3a18c1e535603f480c8fde27ff902f999abe2bedcd979383e6b0e8321c92104",
+  "signature": "fYDY7gkrtp9udsFfYWxMW7fk+rt2vVc0q73cP8Dzv3OPsEvNkV+k3AdNYdbjEdqCF/BWH2KZiQddKekp7YA1Cg==",
+  "taille": 14216799,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.5/LocazClim.exe",
+  "version": "1.9.5"
 }
