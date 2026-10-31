@@ -1,8 +1,8 @@
 {
-  "notes": "Essence et Diesel séparés (devinés d'après le moteur ou la carte grise), et rappel du paiement en plusieurs fois",
-  "sha256": "12fb4d631458f3d83f57f43bc63e2e1a8fed50ad136375658deb3945ec8b7c35",
-  "signature": "w0V2mDzdkkWBGw7MWBilD0urZJxz4jciA5HTdKYl91/XU9CY6AQemAQHkmO2v5s5pTtBjFL3iEx3omKKmTj7Aw==",
-  "taille": 14210655,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.3/LocazClim.exe",
-  "version": "1.9.3"
+  "notes": "Plaque jamais venue au garage : un cadre sous la plaque et un bouton « Ajouter ce véhicule » qui emmène à la fiche du client",
+  "sha256": "8229387561544bbb0d0fedbbe78f8b793eab996f5a83367a225d0d66c6049c40",
+  "signature": "04yW/omp7+zla2ZmauYGolaGTwcanf0ZEBCcPDJ0q/nvhlq9gAbavzrJSwsHkVb3QMEni03u0VgwqAY3lDWhCw==",
+  "taille": 14212191,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.4/LocazClim.exe",
+  "version": "1.9.4"
 }
