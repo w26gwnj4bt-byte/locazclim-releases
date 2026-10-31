@@ -1,8 +1,8 @@
 {
-  "notes": "Préconisations sur la facture : entretiens à prévoir imprimés sur la facture et le devis",
-  "sha256": "3c834f5b23a166131bc8897b4a15094e80e8fc5afc42d3e106dc3863f330a6ab",
-  "signature": "iztyrVFOJ9+hiK/pa4uVm6fnRPsbh8GJKcnmnks9IXC7Y14GuOYMx0IrRLOoKuuAay2VUvHMGOTOmMHSc88dAw==",
-  "taille": 14143583,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.8.9/LocazClim.exe",
-  "version": "1.8.9"
+  "notes": "Paiement en plusieurs fois : 2, 3 ou 4 fois sans frais ou à la carte, suivi des échéances et tableau sur la facture",
+  "sha256": "edf60286309983ff52ab687fd15d70f753655ad1a0fddbcce36faaec7e57076e",
+  "signature": "KKMZGQ6WU+tvfcPtK3kM0EaONiTEIiJ8u+ERUuyLa1cAVMSSJFkZfn7p9lx6GOiS/71tT1tqCsqSOtPTaft0DA==",
+  "taille": 14165599,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.0/LocazClim.exe",
+  "version": "1.9.0"
 }
