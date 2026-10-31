@@ -1,8 +1,8 @@
 {
-  "notes": "Tout rangé par client, marque ou plaque : une seule recherche, Clients et véhicules sur une page, Interventions par date, client, marque, plaque ou étapes, et toucher une plaque ouvre la fiche",
-  "sha256": "980aa891edbeebbcd3073cd66a9b54a95d8202914c296ed5c2404dc40710bbeb",
-  "signature": "QNv7YNtFFDYES+kBpIkIvgcDHbnSV6qXd/mpqSgGijgAiUiozMhPBSBBGCsNaNJaHUnOgzoRqNkHyl3sbEYcBA==",
-  "taille": 14208095,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.2/LocazClim.exe",
-  "version": "1.9.2"
+  "notes": "Essence et Diesel séparés (devinés d'après le moteur ou la carte grise), et rappel du paiement en plusieurs fois",
+  "sha256": "12fb4d631458f3d83f57f43bc63e2e1a8fed50ad136375658deb3945ec8b7c35",
+  "signature": "w0V2mDzdkkWBGw7MWBilD0urZJxz4jciA5HTdKYl91/XU9CY6AQemAQHkmO2v5s5pTtBjFL3iEx3omKKmTj7Aw==",
+  "taille": 14210655,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.3/LocazClim.exe",
+  "version": "1.9.3"
 }
