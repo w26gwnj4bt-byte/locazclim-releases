@@ -1,8 +1,8 @@
 {
-  "notes": "Sécurité : script Google plus sûr (à recopier une fois), droits des employés, photos vérifiées, copies USB sans code secret, alerte e-mail",
-  "sha256": "84e158b7a65a0cdfe0301e862ef32cafd56d03e8f7dda06dd96d39e65cf2e6ce",
-  "signature": "TTSDMAMuZAoHyQ8enzJm0uDlXarDLIg4IWpP9xa8n2ukg2xcvfQgY7OCJLwyXQNPx+4srxTxDm8dmBWr/8nUBg==",
-  "taille": 14430815,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.9/LocazClim.exe",
-  "version": "1.9.9"
+  "notes": "Copier le devis (texte WhatsApp ou PDF), Info-tri pneus sur les factures, lien Google plus malin quand le PC est allumé, Réglages qui ne s'effacent plus, journal d'erreurs plus complet",
+  "sha256": "02cc2098a4eaed8eb9592f6584c60cf5a8c9942d2c12f51aa7a839b202d43546",
+  "signature": "+iApsAeyHlfhD0wRMtZ2RQ8wb4QhlqSmfxXWekFNqU27CzekmfAubsSGvMHu7lcIyXPksqLRS+DCi+WxnBnvCA==",
+  "taille": 14448735,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.10/LocazClim.exe",
+  "version": "1.9.10"
 }
