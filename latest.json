@@ -1,8 +1,8 @@
 {
-  "notes": "Correction : plus de fenêtre noire en plus de LocazClim",
-  "sha256": "8d7ab5373fd8fc6a16eb8c23b8ea37dcf666369b49c6d267d1b84a1587648c32",
-  "signature": "1R3NJMg5KllabfRHtyFwPXhn274aDBnuJH/6z3CoAQH2wIrWL7gvsFXB7kXCdGVx7U734sGJoItvVatVO8FyBQ==",
-  "taille": 14376031,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.7/LocazClim.exe",
-  "version": "1.9.7"
+  "notes": "Sécurité : script Google plus sûr (à recopier une fois), droits des employés, photos vérifiées, copies USB sans code secret, alerte e-mail",
+  "sha256": "84e158b7a65a0cdfe0301e862ef32cafd56d03e8f7dda06dd96d39e65cf2e6ce",
+  "signature": "TTSDMAMuZAoHyQ8enzJm0uDlXarDLIg4IWpP9xa8n2ukg2xcvfQgY7OCJLwyXQNPx+4srxTxDm8dmBWr/8nUBg==",
+  "taille": 14430815,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.9/LocazClim.exe",
+  "version": "1.9.9"
 }
