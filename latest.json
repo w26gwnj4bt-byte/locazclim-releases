@@ -1,8 +1,8 @@
 {
-  "notes": "Copier le devis (texte WhatsApp ou PDF), Info-tri pneus sur les factures, lien Google plus malin quand le PC est allumé, Réglages qui ne s'effacent plus, journal d'erreurs plus complet",
-  "sha256": "02cc2098a4eaed8eb9592f6584c60cf5a8c9942d2c12f51aa7a839b202d43546",
-  "signature": "+iApsAeyHlfhD0wRMtZ2RQ8wb4QhlqSmfxXWekFNqU27CzekmfAubsSGvMHu7lcIyXPksqLRS+DCi+WxnBnvCA==",
-  "taille": 14448735,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.10/LocazClim.exe",
-  "version": "1.9.10"
+  "notes": "Envoyer en PDF depuis la fiche, devis modifié en version 2 (signature à refaire), travaux en plus avec accord du client, clim dans la méca qui retire le gaz, planning Clim + Méca, bouton Rafraîchir et bulle de transfert, boutons directs",
+  "sha256": "58688dfcb47f89eb8715441e67c2e5d342c2fa38354ba78c47a71af3c28565e8",
+  "signature": "GEl1XJsJQ3cG4g5WPn6Z+6NWtJljWbLJRFlWiMaLzGZXErsxfgulgtN5ZEI5UBqsHk0+K3fIu5Nhy41iyhi7Bg==",
+  "taille": 14485087,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.11/LocazClim.exe",
+  "version": "1.9.11"
 }
