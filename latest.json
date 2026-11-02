@@ -1,8 +1,8 @@
 {
-  "notes": "Facturation corrigée (dernière facture effaçable, avoir, plus de montant négatif, F.D et 293 B, chiffre du mois = factures moins avoirs), stock jamais négatif avec alerte « Il manque X » (Commander ou Continuer quand même), pièces reconnues par nom ou référence et déduites à la bonne étape, familles de pièces en onglets (roue, triangle, rotule…), saisie du téléphone jamais perdue (refus visibles, Réessayer, brouillon repris).",
-  "sha256": "f50868e8ca7fd73b9e8159be7c39c24e1996841a1c157b3767cf9fdbbf3e1999",
-  "signature": "brOfgP3JboBtc8UqVoqSSzsILtnscr781y1xxPdpCj9qUeAAM7AR0Gh1oB8A6YM04P5rZnU7CC6o8xQ/bqVvBA==",
-  "taille": 14599775,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.13/LocazClim.exe",
-  "version": "1.9.13"
+  "notes": "Fiche d'intervention propre (plus de code affiché, une ligne par pièce et main-d'œuvre), fiche véhicule avec les infos du client (appeler, WhatsApp, adresse, kilométrage), familles de pièces plus simples (« + Famille », pièces sans famille dans « Autre »).",
+  "sha256": "4d87e2d172059ac7b03e918696d5c263f9ac418695bb585270ec7dc08eb2a7da",
+  "signature": "iwfxZahw1w+spKh59jvvXPsfrZHktPcWaIEUxWdITTSaSxO1WgX3Nm2iYmgdBMD8lgNUQVbRUDSsnRhyKo+mBQ==",
+  "taille": 14602847,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.14/LocazClim.exe",
+  "version": "1.9.14"
 }
