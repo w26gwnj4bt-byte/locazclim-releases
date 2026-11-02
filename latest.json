@@ -1,8 +1,8 @@
 {
   "notes": "Stock : quantité réelle et quantité minimum séparées (rouge seulement au minimum), bouton Travaux en plus sur une intervention prête ou livrée, envoi en PDF guidé pas à pas (téléphone et PC), petites notes d'aide « Comment ça marche » sur chaque écran, fiche en mode simple sur le téléphone",
-  "sha256": "4285bf9f54645e1aae4c8c2de2d74096a64841d26c643e3f0e57db19ace94056",
-  "signature": "vJk+LSy5MzgWfp1hcKAZK+LnztSlxchYTcC1zVfG0ysWGuCtTqpNP+DS1Ffc00cZL0UIsKNZ3MywVETMIGfeDA==",
-  "taille": 14529536,
+  "sha256": "5f9c35d2a91adda21c729bd3c2cb21f72d11b1695282a5f92155f052a2704420",
+  "signature": "LjBR2Q3VCTEYueYaZcGpD+zdFhXP8DuL9aPbbLIHCrbKKU+o2po19syueMm6+0ofNG47tHA9N4eKdfhS0mZzCA==",
+  "taille": 14529631,
   "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.12/LocazClim.exe",
   "version": "1.9.12"
 }
