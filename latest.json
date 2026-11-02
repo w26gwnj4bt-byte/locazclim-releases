@@ -1,8 +1,8 @@
 {
-  "notes": "Stock : quantité réelle et quantité minimum séparées (rouge seulement au minimum), bouton Travaux en plus sur une intervention prête ou livrée, envoi en PDF guidé pas à pas (téléphone et PC), petites notes d'aide « Comment ça marche » sur chaque écran, fiche en mode simple sur le téléphone",
-  "sha256": "5f9c35d2a91adda21c729bd3c2cb21f72d11b1695282a5f92155f052a2704420",
-  "signature": "LjBR2Q3VCTEYueYaZcGpD+zdFhXP8DuL9aPbbLIHCrbKKU+o2po19syueMm6+0ofNG47tHA9N4eKdfhS0mZzCA==",
-  "taille": 14529631,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.12/LocazClim.exe",
-  "version": "1.9.12"
+  "notes": "Facturation corrigée (dernière facture effaçable, avoir, plus de montant négatif, F.D et 293 B, chiffre du mois = factures moins avoirs), stock jamais négatif avec alerte « Il manque X » (Commander ou Continuer quand même), pièces reconnues par nom ou référence et déduites à la bonne étape, familles de pièces en onglets (roue, triangle, rotule…), saisie du téléphone jamais perdue (refus visibles, Réessayer, brouillon repris).",
+  "sha256": "f50868e8ca7fd73b9e8159be7c39c24e1996841a1c157b3767cf9fdbbf3e1999",
+  "signature": "brOfgP3JboBtc8UqVoqSSzsILtnscr781y1xxPdpCj9qUeAAM7AR0Gh1oB8A6YM04P5rZnU7CC6o8xQ/bqVvBA==",
+  "taille": 14599775,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.13/LocazClim.exe",
+  "version": "1.9.13"
 }
