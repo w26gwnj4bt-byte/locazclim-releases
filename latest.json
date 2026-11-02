@@ -1,8 +1,8 @@
 {
-  "notes": "Fiche client complète (téléphone, e-mail, adresse, boutons Appeler, WhatsApp, Modifier), un seul kilométrage sur la fiche véhicule, stock au minimum en rouge avec « À commander », et « Stock » en rouge dans le menu quand il manque une pièce.",
-  "sha256": "4a01dd794fc92195bd6ebaba9bafd150287af5fc0219703fefa81cc31cb38b83",
-  "signature": "nJKPyVFOfw4vcQ0+O3F9kpe7ImClQPUU5tYG8aZSVScZmZfXDnCT6hu0RGGli39utw4xYjGiBmiK5o4C5SLICw==",
-  "taille": 14605407,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.15/LocazClim.exe",
-  "version": "1.9.15"
+  "notes": "Stock : un clic sur une pièce ouvre sa fiche (stock, minimum, références, famille, fournisseur, prix, derniers mouvements). On peut y mettre 1 ou 2 photos, et la première s'affiche en petit sur la ligne du stock.",
+  "sha256": "36d6fd1f65056ab3edf8e519cdf4f2a50ce0ef60c2fcd81f8d1eea69d510b057",
+  "signature": "+Fbrit9WIbsCTjaN2HFJbSZm9oBlCuoNjAiA47En3kWwzNw1uaI2sNqYJN3O5x6eGj9981JujtMtd3vd+gKvCQ==",
+  "taille": 14610527,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.16/LocazClim.exe",
+  "version": "1.9.16"
 }
