@@ -1,8 +1,8 @@
 {
-  "notes": "Fiche d'intervention propre (plus de code affiché, une ligne par pièce et main-d'œuvre), fiche véhicule avec les infos du client (appeler, WhatsApp, adresse, kilométrage), familles de pièces plus simples (« + Famille », pièces sans famille dans « Autre »).",
-  "sha256": "4d87e2d172059ac7b03e918696d5c263f9ac418695bb585270ec7dc08eb2a7da",
-  "signature": "iwfxZahw1w+spKh59jvvXPsfrZHktPcWaIEUxWdITTSaSxO1WgX3Nm2iYmgdBMD8lgNUQVbRUDSsnRhyKo+mBQ==",
-  "taille": 14602847,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.14/LocazClim.exe",
-  "version": "1.9.14"
+  "notes": "Fiche client complète (téléphone, e-mail, adresse, boutons Appeler, WhatsApp, Modifier), un seul kilométrage sur la fiche véhicule, stock au minimum en rouge avec « À commander », et « Stock » en rouge dans le menu quand il manque une pièce.",
+  "sha256": "4a01dd794fc92195bd6ebaba9bafd150287af5fc0219703fefa81cc31cb38b83",
+  "signature": "nJKPyVFOfw4vcQ0+O3F9kpe7ImClQPUU5tYG8aZSVScZmZfXDnCT6hu0RGGli39utw4xYjGiBmiK5o4C5SLICw==",
+  "taille": 14605407,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.15/LocazClim.exe",
+  "version": "1.9.15"
 }
