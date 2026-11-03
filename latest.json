@@ -1,8 +1,8 @@
 {
-  "notes": "Sécurité : un appareil qui se trompe de code plus de 20 fois en 10 minutes est bloqué 10 minutes. RGPD : « Ne pas relancer », exporter ou effacer les données d'un client, mention d'information à imprimer. Factures : nouveau format de numéro au choix, année + mois + numéro du mois (202611001), qui suit la date de la facture.",
-  "sha256": "c595101ce1030520231a10411eaaf4286d3387857a522f58bb100347e9a8b217",
-  "signature": "8ryhyZ7mbF7PRIC5If6eMGUrQChpWzlx0xVGr+WHxyRhch0mB/CQFw38bwSdhav+hLtCYTRacb2goT3MGOtnCQ==",
-  "taille": 14645343,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.17/LocazClim.exe",
-  "version": "1.9.17"
+  "notes": "Sécurité : le Wi-Fi du garage est fermé tant qu'aucun téléphone n'est relié, et s'ouvre tout seul dès qu'un téléphone est relié. L'écran est protégé contre le code injecté : un texte piégé ne peut jamais lancer de programme.",
+  "sha256": "ac77cc49d10240b500fab20870e69469b4b8127c1d09d385c51e6bcb2d7631e0",
+  "signature": "Ox3/oJKVHG+JQhbKNgHiOiyW0EXDrfB5cmsaSsMGXuOQHYZSw37Dy/ScwjRBupUTK1zYajNX30pcMGW6iNxcBg==",
+  "taille": 14653023,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.18/LocazClim.exe",
+  "version": "1.9.18"
 }
