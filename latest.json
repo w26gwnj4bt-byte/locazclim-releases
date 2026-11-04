@@ -1,8 +1,8 @@
 {
-  "notes": "Sécurité : le Wi-Fi du garage est fermé tant qu'aucun téléphone n'est relié, et s'ouvre tout seul dès qu'un téléphone est relié. L'écran est protégé contre le code injecté : un texte piégé ne peut jamais lancer de programme.",
-  "sha256": "ac77cc49d10240b500fab20870e69469b4b8127c1d09d385c51e6bcb2d7631e0",
-  "signature": "Ox3/oJKVHG+JQhbKNgHiOiyW0EXDrfB5cmsaSsMGXuOQHYZSw37Dy/ScwjRBupUTK1zYajNX30pcMGW6iNxcBg==",
-  "taille": 14653023,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.18/LocazClim.exe",
-  "version": "1.9.18"
+  "notes": "Factures au format du mois : F2026-2611001. Encaisser : confirmation si le montant dépasse le reste, montant négatif refusé. Stock : entrée négative refusée. Fiche client sur deux appareils : un champ vide garde la valeur du PC. Corrections diverses.",
+  "sha256": "6b4022893a2a78fb4db50afbc7b4eed4666782bcc944b31fc0537921b279b6e9",
+  "signature": "+42x9rJa1VcJa/rM71fo+uYymtPqzpYzr3Aht9QHbzjN1hR6S54ybcgxITOJszksVbRtm0jOhmdOpmyKdkYuAg==",
+  "taille": 14663775,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.19/LocazClim.exe",
+  "version": "1.9.19"
 }
