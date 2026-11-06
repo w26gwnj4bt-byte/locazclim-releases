@@ -1,8 +1,8 @@
 {
-  "notes": "Refaire une facture annulée par un avoir (bouton « Refaire la facture », mention « Remplace la facture … »). Chiffres cohérents : facturé et encaissé côte à côte, seul le travail livré compte, impayé = livré et pas payé. Prix d'achat et fournisseur sur les lignes pièces, case « Pièces achetées ».",
-  "sha256": "385072d7fdab9d502b7b8d88ad6602063f33ff0976cf7ea508f16ab136114849",
-  "signature": "UgSsvx8NhqUefRLE/uaSW74iZLuleJC7vod+JyV+nttkiwt8+Qnpvh0FiRjYi4lpuZ99vnIPcZYYSmnLRwadCg==",
-  "taille": 14683231,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.20/LocazClim.exe",
-  "version": "1.9.20"
+  "notes": "Le logiciel s'ouvre toujours sur la Mécanique ; l'onglet Mécanique passe avant Clim.",
+  "sha256": "14a09254bd1e1cb015c856dfb90a1135f01c61f222cd7ddf31e078683827ba7c",
+  "signature": "m2ciJW2XtLEVD2HVK5M8rRsnbcKU0HeR4OR2wRxDobFGpkRID5hOEOTyFaRpPrf7DacsQ6IGLLytmofaAOj0CQ==",
+  "taille": 14683743,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.21/LocazClim.exe",
+  "version": "1.9.21"
 }
