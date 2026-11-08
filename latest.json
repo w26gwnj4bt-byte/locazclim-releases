@@ -1,8 +1,8 @@
 {
-  "notes": "Le logiciel s'ouvre toujours sur la Mécanique ; l'onglet Mécanique passe avant Clim.",
-  "sha256": "14a09254bd1e1cb015c856dfb90a1135f01c61f222cd7ddf31e078683827ba7c",
-  "signature": "m2ciJW2XtLEVD2HVK5M8rRsnbcKU0HeR4OR2wRxDobFGpkRID5hOEOTyFaRpPrf7DacsQ6IGLLytmofaAOj0CQ==",
-  "taille": 14683743,
-  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.21/LocazClim.exe",
-  "version": "1.9.21"
+  "notes": "Bouton « Chercher la pièce » sur les lignes Pièce : ouvre Oscaro, Autodoc, Mister Auto ou Google avec la recherche déjà tapée (pièce + voiture), et copie la plaque.",
+  "sha256": "2fbfa91f6fda92f08d89c00c2c89a8ce13e243c1d593276666aecfe51e02f887",
+  "signature": "3s209lmiev9BcXEWWof8E74Ff+LmAKBdKpl5HYyzl9px4hLjtD5c9LdMIfdV6yTn2qyInoHfvNtNgOi7U0WeAg==",
+  "taille": 14689375,
+  "url": "https://raw.githubusercontent.com/w26gwnj4bt-byte/locazclim-releases/main/v1.9.22/LocazClim.exe",
+  "version": "1.9.22"
 }
